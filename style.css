@@ -51,6 +51,7 @@ h1 {
   background-color: #BFA595;
   color: #ffffff;
   border: none;
+  border-radius: 8px;
   text-decoration: none;
   outline: none;
   box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
