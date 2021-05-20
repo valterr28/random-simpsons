@@ -187,7 +187,7 @@ function getInfo() {
 
 
 function changeTitle() {
-    var pageTitle = `Random Mifflin | Season ${seasonNo} Episode ${episodeNo}`;
+    var pageTitle = `Random D'oh | Season ${seasonNo} Episode ${episodeNo}`;
     document.title = pageTitle;
     console.log(pageTitle);
   }
