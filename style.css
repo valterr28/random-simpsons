@@ -119,3 +119,23 @@ h1 {
   margin: auto;
   margin-top: 15px;
 }
+
+.footer {
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+  line-height: 1;
+  margin-top: 15px;
+  margin-bottom: 0.4em;
+}
+
+.footer p{
+  font-weight: bold;
+  color: black;
+  
+}
+
+.footer p a{
+  font-weight: bold;
+  color: black;
+  
+}
