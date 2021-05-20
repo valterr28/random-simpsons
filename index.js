@@ -1,4 +1,4 @@
-document.getElementById("randomsimpsons").addEventListener("click", randomsimpsons)
+document.getElementById("randomSimpsons").addEventListener("click", randomsimpsons)
 
 var seasonNo, episodeNo, pageURL, urlData;
 
@@ -187,10 +187,10 @@ function getInfo() {
 
 
 function changeTitle() {
-    var pageTitle = `Random D'oh | Season ${seasonNo} Episode ${episodeNo}`
-    document.title = pageTitle
+    var pageTitle = `Random Mifflin | Season ${seasonNo} Episode ${episodeNo}`;
+    document.title = pageTitle;
     console.log(pageTitle);
-}
+  }
 
 function changeURL() {
 
